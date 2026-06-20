@@ -1,186 +1,65 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Ganesh&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ganesh-1508&label=PROFILE+VIEWS&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Ganesh-1508?label=FOLLOWERS&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/Ganesh-1508?label=STARS&style=for-the-badge&color=yellow" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=Hey,%20I%20am%20Ganesh%20Ghodke&fontSize=28&fontColor=ffffff&desc=A%20Full-Stack%20%26%20ML%20Developer%20%7C%20Researcher&descSize=14&descColor=cbd5e1&animation=twinkling" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ganeshghodke01" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ganeshghodke1508@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br>
 
----
+<a href="https://linkedin.com/in/ganeshghodke01"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;
+<a href="https://github.com/Ganesh-1508"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>&nbsp;
+<a href="mailto:ganeshghodke1508@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 
-### 🚀 About Me
+<br><br>
 
-I'm **Ganesh Ghodke**, a passionate **Full-Stack Developer & AI/ML Enthusiast** from Pune, Maharashtra 🇮🇳
-🎓 3rd Year B.Tech Student in **Computer Science & Engineering (Artificial Intelligence)** at Vishwakarma Institute of Technology, Pune (SPPU)
-📊 CGPA: 8.89 | Diploma: 92.46%
-🛠️ Building real-world projects in **Web Development (React, Next.js, Node.js)** and **Machine Learning (TensorFlow)**
-📄 Co-author of **2 published research papers** | 🔐 Co-inventor on **2 filed patents**
-🏆 Top 20 Finalist — Hack-O-Verse '26 (GDG, Vishwakarma Institute of Technology)
-💬 Ask me about: Full-Stack Development, Machine Learning, Google ADK, IoT
-📫 Reach me at: **ganeshghodke1508@gmail.com**
+I am Ganesh Ghodke, currently embarking on my engineering journey from Vishwakarma Institute of Technology, Pune, India.
+<br>
+🤖 I am a <b>Full-Stack Web Developer</b>, <b>Problem Solver</b>, <b>Content Creator</b> & <b>Technical Writer</b>
+<br>
+🚀 I love to make Exciting Projects
+<br>
+📚 I really enjoy learning new languages and technologies
+<br>
+🔭 I'm currently working on Machine Learning & Edge-AI Systems
+<br>
+🌱 I'm currently exploring Generative AI and Multi-Agent Systems
 
----
+<br><br>
 
-### 💼 Experience
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-1508&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" width="80%"/>
 
-| Role | Organization | Duration | Description |
-|---|---|---|---|
-| **Industrial Trainee** | Technosoft Digital Space, Latur | June '24 – July '24 | Completed a six-week industrial training program; gained hands-on experience in software development and project implementation |
+<br><br>
 
----
+## Technical Skills 🛠️
 
-### 🛠️ Tech Stack
+#### Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,js,java" />
 
-**Languages**
+#### Web Development Stack
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind" />
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+#### AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,py" />
 
-**Frontend**
+#### Development Tools
+<img src="https://skillicons.dev/icons?i=vscode,arduino,postman" />
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+#### Version Control
+<img src="https://skillicons.dev/icons?i=git,github" />
 
-**Backend**
+<br><br>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-**AI/ML**
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Generative%20AI-FF4785?style=for-the-badge&logo=openai&logoColor=white" />
-
-**Tools & Platforms**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-
----
-
-### 🏆 Achievements & Awards
-
-| Award | Event / Organization |
-|---|---|
-| 🥈 Top 20 Finalist | Hack-O-Verse '26, GDG Vishwakarma Institute of Technology (Team LogicLift) |
-| 🎖️ National-Level Hackathon Participant | RSM-Hackathon-S25, Rajarshi Shahu Mahavidyalaya (2025) |
-| 📜 Workshop Certificate | "Beyond Prompts: Orchestrating Multi-Agent AI with Google ADK" — AISF & IEEE CTSoc, VIT (2026) |
-
----
-
-### 📄 Publications & Patents
-
-| Title | Type | Details |
-|---|---|---|
-| Smart Glasses for Blind People Using Arduino | Publication | IJARSCT, Vol. 5, Issue 8 (2025) |
-| Crop Disease Detection & Recommendation System for Indian Agriculture | Publication | AI4GreenWorld 2026, Springer Nature |
-| An Intelligent Helmet System for Enhanced Rider Safety | Patent Filed | South Africa, App. No. 2026/05480 |
-| Decentralized Multi-Agent Edge-AI System for Crop Protection & Wildlife Conflict Prevention | Patent Filed | South Africa, App. No. 2026/05474 |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh-1508&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-1508&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-1508&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
-
-### 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ganesh-1508&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 🚀 Featured Projects
+## Research, Patents & Achievements 📄
 
 <table>
-<tr>
-<td width="50%">
-
-**👓 Smart Glasses for Blind People**
-
-Wearable IoT device that detects obstacles using ultrasonic sensors and alerts the user in real time.
-
-`Arduino Nano` `Ultrasonic Sensor` `Embedded C`
-
-</td>
-<td width="50%">
-
-**🌾 Crop Disease Detection & Recommendation System**
-
-ML-based system that detects crop diseases and recommends solutions for Indian agriculture.
-
-`Python` `TensorFlow` `Machine Learning`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🪖 Intelligent Helmet System (Patent)**
-
-Smart helmet that verifies helmet-wear, detects alcohol/fatigue, and sends crash alerts via GSM/GPS.
-
-`Embedded Systems` `IoT` `Sensors`
-
-</td>
-<td width="50%">
-
-**🐾 Edge-AI Crop Protection System (Patent)**
-
-Decentralized edge-AI network of boundary units that detects animals/humans and repels them non-lethally to prevent crop damage.
-
-`Edge AI` `IoT` `Multi-Agent Systems`
-
-</td>
-</tr>
+<tr><td align="left">📄 <b>Smart Glasses for Blind People Using Arduino</b> — IJARSCT, Vol. 5, Issue 8 (2025)</td></tr>
+<tr><td align="left">📄 <b>Crop Disease Detection & Recommendation System</b> — AI4GreenWorld 2026, Springer Nature</td></tr>
+<tr><td align="left">🔐 <b>Intelligent Helmet System for Rider Safety</b> — Patent Filed, SA App. No. 2026/05480</td></tr>
+<tr><td align="left">🔐 <b>Decentralized Edge-AI Crop Protection System</b> — Patent Filed, SA App. No. 2026/05474</td></tr>
+<tr><td align="left">🏆 <b>Top 20 Finalist</b> — Hack-O-Verse '26, GDG Vishwakarma Institute of Technology</td></tr>
+<tr><td align="left">🎖️ <b>National-Level Hackathon Participant</b> — RSM-Hackathon-S25</td></tr>
 </table>
 
----
+<br>
 
-### 📜 Certifications
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:24243e,50:302b63,100:0f0c29&height=60&section=footer" width="100%"/>
 
-- 🎓 **Full-Stack Development: React, Next.js, Node.js** — Udemy
-- 🤖 **Explore Machine Learning with TensorFlow** — Infosys Springboard
-- ✨ **Generative AI Content Creation** — Adobe (Coursera)
-- 💼 **TCS iON Career Edge – Young Professional** — Tata Consultancy Services
-
----
-
-### 💬 Let's Connect!
-
-I'm actively looking for **internship opportunities**, **freelance projects**, and **collaborative ventures**. Whether it's full-stack development, AI/ML applications, or innovative IoT solutions, I'd love to contribute to your team!
-
-<p align="center">
-  <a href="mailto:ganeshghodke1508@gmail.com">
-    <img src="https://img.shields.io/badge/SEND%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ganeshghodke01" target="_blank">
-    <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
-<p align="center"><i>⭐ Star some repos if you find them interesting! Thanks for visiting! ⭐</i></p>
+</div>
