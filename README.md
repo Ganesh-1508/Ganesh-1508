@@ -1,7 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I am Ganesh Ghodke
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Maths.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Developer.gif" width="100%"/>
+
+<h1>Ganesh Ghodke</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Machine+Learning+%26+Edge-AI+Researcher;Published+Author+%C2%B7+2+Filed+Patents;Open+to+Software+Development+Internships" />
 
 <br>
 
@@ -47,8 +50,6 @@ I am Ganesh Ghodke, currently embarking on my engineering journey from Vishwakar
 <img src="https://skillicons.dev/icons?i=git,github" />
 
 <br><br>
-
-
 <br>
 
 ## Currently Exploring 🌱
