@@ -1,6 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I am Ganesh Ghodke
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Maths.gif" width="100%"/>
 
 <br>
 
