@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=Hey,%20I%20am%20Ganesh%20Ghodke&fontSize=28&fontColor=ffffff&desc=A%20Full-Stack%20%26%20ML%20Developer%20%7C%20Researcher&descSize=14&descColor=cbd5e1&animation=twinkling" width="100%"/>
-
+https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=Hey,%20I%20am%20Ganesh%20Ghodke&fontSize=28&fontColor=ffffff&desc=A%20Full-Stack%20%26%20ML%20Developer&descSize=14&descColor=cbd5e1
 <br>
 
 <a href="https://linkedin.com/in/ganeshghodke01"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;
@@ -60,6 +59,6 @@ I am Ganesh Ghodke, currently embarking on my engineering journey from Vishwakar
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:24243e,50:302b63,100:0f0c29&height=60&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=60&section=footer" width="100%"/>
 
 </div>
