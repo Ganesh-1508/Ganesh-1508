@@ -2,8 +2,6 @@
 
 # 👋 Hey, I am Ganesh Ghodke
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Machine+Learning+%26+Edge-AI+Researcher;Published+Author+%C2%B7+2+Filed+Patents;Open+to+Software+Development+Internships" />
-
 <br>
 
 <a href="https://linkedin.com/in/ganeshghodke01"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;
@@ -49,14 +47,6 @@ I am Ganesh Ghodke, currently embarking on my engineering journey from Vishwakar
 
 <br><br>
 
-## Research & Patents 📄
-
-<table>
-<tr><td align="left">📄 <b>Smart Glasses for Blind People Using Arduino</b> — IJARSCT, Vol. 5, Issue 8 (2025)</td></tr>
-<tr><td align="left">📄 <b>Crop Disease Detection & Recommendation System</b> — AI4GreenWorld 2026, Springer Nature</td></tr>
-<tr><td align="left">🔐 <b>Intelligent Helmet System for Rider Safety</b> — Patent Filed, SA App. No. 2026/05480</td></tr>
-<tr><td align="left">🔐 <b>Decentralized Edge-AI Crop Protection System</b> — Patent Filed, SA App. No. 2026/05474</td></tr>
-</table>
 
 <br>
 
