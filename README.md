@@ -1,6 +1,9 @@
 <div align="center">
 
-https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=Hey,%20I%20am%20Ganesh%20Ghodke&fontSize=28&fontColor=ffffff&desc=A%20Full-Stack%20%26%20ML%20Developer&descSize=14&descColor=cbd5e1
+# 👋 Hey, I am Ganesh Ghodke
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Machine+Learning+%26+Edge-AI+Researcher;Published+Author+%C2%B7+2+Filed+Patents;Open+to+Software+Development+Internships" />
+
 <br>
 
 <a href="https://linkedin.com/in/ganeshghodke01"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;
@@ -46,19 +49,34 @@ I am Ganesh Ghodke, currently embarking on my engineering journey from Vishwakar
 
 <br><br>
 
-## Research, Patents & Achievements 📄
+## Research & Patents 📄
 
 <table>
 <tr><td align="left">📄 <b>Smart Glasses for Blind People Using Arduino</b> — IJARSCT, Vol. 5, Issue 8 (2025)</td></tr>
 <tr><td align="left">📄 <b>Crop Disease Detection & Recommendation System</b> — AI4GreenWorld 2026, Springer Nature</td></tr>
 <tr><td align="left">🔐 <b>Intelligent Helmet System for Rider Safety</b> — Patent Filed, SA App. No. 2026/05480</td></tr>
 <tr><td align="left">🔐 <b>Decentralized Edge-AI Crop Protection System</b> — Patent Filed, SA App. No. 2026/05474</td></tr>
-<tr><td align="left">🏆 <b>Top 20 Finalist</b> — Hack-O-Verse '26, GDG Vishwakarma Institute of Technology</td></tr>
-<tr><td align="left">🎖️ <b>National-Level Hackathon Participant</b> — RSM-Hackathon-S25</td></tr>
 </table>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=60&section=footer" width="100%"/>
+## Currently Exploring 🌱
+
+<img src="https://img.shields.io/badge/-Generative%20AI-A78BFA?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/-Multi--Agent%20Systems-7C3AED?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20ADK-6366F1?style=flat-square&logoColor=white" />
+
+<br><br>
+
+## Let's Connect 💬
+
+I'm actively looking for **Software Development Internship** opportunities — open to full-stack, ML, and IoT-based projects.
+
+<a href="mailto:ganeshghodke1508@gmail.com"><img src="https://img.shields.io/badge/Send%20Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ganeshghodke01"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br><br>
+
+<sub>⭐ Thanks for visiting my profile — feel free to explore my repositories!</sub>
 
 </div>
